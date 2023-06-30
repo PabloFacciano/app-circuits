@@ -9,20 +9,20 @@
 # To-do
 
 - Probar dos baterias en paralelo (capacidad)
-- Probar dos baterías en serie (voltage)
+- Probar dos baterÃ­as en serie (voltage)
 
 - Boton de reset de Zoom
 - Boton de zoom centrado en los componentes
 - Autocentrado en los componentes al iniciar
 
-- Generar ejemplos para precargar desde algún menú del form
+- Generar ejemplos para precargar desde algÃºn menÃº del form
 
 
 ## New Ideas
 
 - Cable de doble sentido?
 
-- Nuevos componentes a diseñar:
+- Nuevos componentes a diseÃ±ar:
   - Puente (A-B)
   - BreadBoard (Multiples pines interconectados, revisar tema intensidad y resistencia)
   - Resistencia
@@ -42,8 +42,8 @@
 # Current delivered:
 
 - Zoom
-- Componentes: Batería, LED
+- Componentes: BaterÃ­a, LED
 - Edicion de componentes
 - Cables de colores
 - Definicion de Voltaje, Amperaje y Resitencia (dependiendo el componente)
-- Simulación automática y paso a paso.
+- SimulaciÃ³n automÃ¡tica y paso a paso.
